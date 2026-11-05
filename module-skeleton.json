@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-spreadsheet-migration-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-spreadsheet-migration",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-spreadsheet-migration-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/spreadsheet-migration.md",
+  "presentationPlan": "projects/accounting/react-native/spreadsheet-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
